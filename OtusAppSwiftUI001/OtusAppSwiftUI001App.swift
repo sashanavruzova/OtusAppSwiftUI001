@@ -2,7 +2,7 @@
 //  OtusAppSwiftUI001App.swift
 //  OtusAppSwiftUI001
 //
-//  Created by Александра Наврузова on 23/03/2023.
+//  Created by Sasha Navruzova on 23/03/2023.
 //
 
 import SwiftUI
