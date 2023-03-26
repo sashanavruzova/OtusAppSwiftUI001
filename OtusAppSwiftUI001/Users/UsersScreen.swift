@@ -2,7 +2,7 @@
 //  UsersScreen.swift
 //  OtusAppSwiftUI001
 //
-//  Created by Александра Наврузова on 25/03/2023.
+//  Created by Sasha Navruzova on 25/03/2023.
 //
 
 import SwiftUI

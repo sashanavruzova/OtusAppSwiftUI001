@@ -2,7 +2,7 @@
 //  Modifiers.swift
 //  OtusAppSwiftUI001
 //
-//  Created by Александра Наврузова on 26/03/2023.
+//  Created by Sasha Navruzova on 26/03/2023.
 //
 
 import SwiftUI

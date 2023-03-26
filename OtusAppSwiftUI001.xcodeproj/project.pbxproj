@@ -80,10 +80,10 @@
 				393744F029CF81D300785F89 /* Models */,
 				393744ED29CF7FFD00785F89 /* Services */,
 				393744EA29CF62B000785F89 /* Users */,
+				3941533029D095E0001E5560 /* Messages */,
+				3941533129D095FB001E5560 /* Profile */,
 				393744D529CCAD2F00785F89 /* OtusAppSwiftUI001App.swift */,
 				393744D729CCAD2F00785F89 /* ContentView.swift */,
-				393744E429CCB61800785F89 /* MessagesScreen.swift */,
-				393744E629CCB6C500785F89 /* ProfileScreen.swift */,
 				393744D929CCAD3000785F89 /* Assets.xcassets */,
 				393744DB29CCAD3000785F89 /* OtusAppSwiftUI001.entitlements */,
 				393744F629D02D0400785F89 /* Info.plist */,
@@ -155,6 +155,22 @@
 				393744FE29D078A900785F89 /* LoaderView.swift */,
 			);
 			path = Views;
+			sourceTree = "<group>";
+		};
+		3941533029D095E0001E5560 /* Messages */ = {
+			isa = PBXGroup;
+			children = (
+				393744E429CCB61800785F89 /* MessagesScreen.swift */,
+			);
+			path = Messages;
+			sourceTree = "<group>";
+		};
+		3941533129D095FB001E5560 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				393744E629CCB6C500785F89 /* ProfileScreen.swift */,
+			);
+			path = Profile;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
